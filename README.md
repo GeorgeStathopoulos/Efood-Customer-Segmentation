@@ -11,3 +11,8 @@ The following python libraries are needed to run the script:
 * matplotlib
 * sklearn
 * seaborn
+
+
+
+-------------------------------------
+In the repo there are also the 2 SQL scripts for the Mini Assessment
